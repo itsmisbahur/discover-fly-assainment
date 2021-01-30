@@ -27,7 +27,6 @@ for(var i = 0; i < ticket.length; i++) {
     })
 }
 
-
 function updateTotalCost() {
     var ticketContainer = document.getElementsByClassName('booking-form')[0]
     var ticketCategory = ticketContainer.getElementsByClassName('ticket-group')
